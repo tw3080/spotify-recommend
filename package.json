@@ -1,0 +1,15 @@
+{
+  "name": "spotify-recommend",
+  "version": "1.0.0",
+  "description": "Uses Spotify Web API to recommend artists and songs to the user",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Welling",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "unirest": "^0.5.1"
+  }
+}
